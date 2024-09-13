@@ -1,4 +1,4 @@
-package main
+package binarysearch
 
 func BinarySearch[T int | float64 | string](ordenedList []T, target T) int {
 	low, high := 0, len(ordenedList)-1
