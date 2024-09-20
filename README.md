@@ -1,6 +1,6 @@
 # Grokking Algorithms in Golang
 
-This little project aims to implement every algorithm in Grokking Algorithms (both non-recursive and recursive versions, whenever possible).
+This little project aims to implement every algorithm in Grokking Algorithms (both non-recursive and recursive versions, whenever possible) using Golang as language of choice.
 
 | Algorithm | Status |
 |-----------|--------|
